@@ -322,10 +322,17 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 👨‍💻 Author & Connect
+ ## 📧 Connect with Me
 
-**Uditya**  
-GitHub: [@udityamerit](https://github.com/udityamerit)  
+**Uditya Narayan Tiwari**
+
+- 🌐 [My Portfolio](https://udityanarayantiwari.netlify.app/)
+
+- 💼 [My LinkedIn](https://www.linkedin.com/in/uditya-narayan-tiwari-562332289/)
+
+- 👨‍💻 [My GitHub](https://github.com/udityamerit)
+
+- 📧 [Email Id](https://uditmerit@gmail.com)
 
 <p align="center">
   <b>⭐ If you found this repository helpful, please consider giving it a star on GitHub! ⭐</b>
